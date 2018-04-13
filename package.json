@@ -1,0 +1,21 @@
+{
+  "name": "snakebot",
+  "version": "1.0.0",
+  "description": "Simple Snake Bot",
+  "scripts": {
+    "lite": "lite-server --port 8080",
+    "start": "npm run lite"
+  },
+  "author": "Balrog994",
+  "license": "GPL-3.0",
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  },
+  "dependencies": {
+    "jshint": "^2.9.5",
+    "p5": "^0.6.0",
+    "requirejs": "^2.3.5",
+    "synaptic": "^1.1.4"
+  },
+  "main": "main.js"
+}
